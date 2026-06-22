@@ -1,7 +1,6 @@
-cat > package.json << 'EOF'
 {
-  "name": "zaka-backend",
-  "version": "2.0.0",
+  "name": "medterm-backend",
+  "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
     "cors": "^2.8.5",
@@ -13,4 +12,3 @@ cat > package.json << 'EOF'
     "uuid": "^9.0.1"
   }
 }
-EOF
